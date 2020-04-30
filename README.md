@@ -40,6 +40,7 @@ Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
     - Modify `CUDA_VISIBLE_DEVICES` to proper cuda device id in train_image.sh
     - Activate virtual environment(e.g. conda) and then run the script ```bash train_image.sh```
 
+    ------------
     - Modify `CUDA_VISIBLE_DEVICES` to proper cuda device id in train_video.sh
     - Activate virtual environment(e.g. conda) and then run the script ```bash train_video.sh```
     
