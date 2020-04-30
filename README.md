@@ -3,6 +3,11 @@ Introduction
 ------------
 This is the source code for our paper **Multi-Model Network for Fine-Grained Cross-Media Retrieval**.
 
+Network Architecture
+--------------------
+The architecture of our proposed model is as follows
+![network](network.png)
+
 Installation
 ------------
 **Requirement**
