@@ -30,11 +30,11 @@ Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
     
     - Download trained model from 
     ```
-    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/audio.pkl
-    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/common_network.pkl
-    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/image.pkl
-    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/text.pkl
-    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/video.pkl
+    wget https://fgcmr.oss-cn-hongkong.aliyuncs.com/audio.pkl
+    wget https://fgcmr.oss-cn-hongkong.aliyuncs.com/common_network.pkl
+    wget https://fgcmr.oss-cn-hongkong.aliyuncs.com/image.pkl
+    wget https://fgcmr.oss-cn-hongkong.aliyuncs.com/text.pkl
+    wget https://fgcmr.oss-cn-hongkong.aliyuncs.com/video.pkl
     ```
     - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in test.sh
 
