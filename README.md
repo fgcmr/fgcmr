@@ -42,9 +42,9 @@ If you want to quickly test the performance, please follow subsequent steps:
     If you want to train the whole network from begining using source code, please follow subsequent steps:
     - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in train_image.sh
     - Activate virtual environment(e.g. conda) and then run the script
-    ```
+     ```
     	bash train_image.sh
-    ```
+     ```
 
     - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in train_video.sh
     - Activate virtual environment(e.g. conda) and then run the script
