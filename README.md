@@ -1,9 +1,11 @@
-# MMNFGCMR
+# Multi-Model Network for Fine-Grained Cross-Media Retrieval
 Introduction
-This is the source code for our paper Multi-Model Network for Fine-Grained Cross-Media Retrieval.
+------------
+This is the source code for our paper **Multi-Model Network for Fine-Grained Cross-Media Retrieval**.
 
 Installation
-Requirement
+------------
+* **Requirement**
 •	pytorch, tested on [v1.2]
 •	CUDA, tested on v10.0
 •	Language: Python 3.6
