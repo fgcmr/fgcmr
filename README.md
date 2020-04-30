@@ -12,9 +12,9 @@ Installation
 ------------
 * **Requirement**
 
-- pytorch, tested on [v1.2]
-- CUDA, tested on v10.0
-- Language: Python 3.6
+    - pytorch, tested on [v1.2]
+    - CUDA, tested on v10.0
+    - Language: Python 3.6
 
 How to use
 ------------
