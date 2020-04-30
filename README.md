@@ -21,20 +21,17 @@ Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
 
 **Demo**
 
-    - If you want to quickly test the performance, please follow subsequent steps
+    If you want to quickly test the performance, please follow subsequent steps
     
-    - Download trained model from Baidu Cloud.
+    - Download trained model from https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
 
-	https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
-	
-	The trained models of our framework can be downloaded from 
+    - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in test.sh
 
-Modify CUDA_VISIBLE_DEVICES to proper cuda device id in test.sh
-
-Activate virtual environment(e.g. conda) and then run the script
+    - Activate virtual environment(e.g. conda) and then run the script
 	bash test.sh
 
-Source Code
+**Source Code**
+
 	If you want to train the whole network from begining using source code, please follow subsequent steps
 Modify CUDA_VISIBLE_DEVICES to proper cuda device id in train_image.sh
 Activate virtual environment(e.g. conda) and then run the script
