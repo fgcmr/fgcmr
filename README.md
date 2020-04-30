@@ -5,17 +5,20 @@ This is the source code for our paper **Multi-Model Network for Fine-Grained Cro
 
 Installation
 ------------
-* **Requirement**
+**Requirement**
+
 •	pytorch, tested on [v1.2]
 •	CUDA, tested on v10.0
 •	Language: Python 3.6
 
 How to use
+------------
 The code is currently tested only on GPU.
 Download dataset 
 Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
 
 Demo
+------------
 If you want to quickly test the performance, please follow subsequent steps
 Download trained model from Baidu Cloud.
 https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
