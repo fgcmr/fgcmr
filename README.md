@@ -9,7 +9,7 @@ The architecture of our proposed model is as follows
 ![network](network.png)
 
 Installation
-------------
+-------------
 * **Requirement**
 
     - pytorch, tested on [v1.2]
@@ -17,7 +17,7 @@ Installation
     - Language: Python 3.6
 
 How to use
-------------
+-------------
 The code is currently tested only on GPU.
 
 * **Download dataset**
