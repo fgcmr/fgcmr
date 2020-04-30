@@ -52,7 +52,7 @@ Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
     bash train_video.sh
     ```
     
-    - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in train_audio.sh
+    - Modify `CUDA_VISIBLE_DEVICES` to proper cuda device id in train_audio.sh
     - Activate virtual environment(e.g. conda) and then run the script
     ```
     bash train_audio.sh
