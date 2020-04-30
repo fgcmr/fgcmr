@@ -10,21 +10,21 @@ The architecture of our proposed model is as follows
 
 Installation
 ------------
-**Requirement**
+* **Requirement**
 
-•	pytorch, tested on [v1.2]
-•	CUDA, tested on v10.0
-•	Language: Python 3.6
+- pytorch, tested on [v1.2]
+- CUDA, tested on v10.0
+- Language: Python 3.6
 
 How to use
 ------------
 The code is currently tested only on GPU.
 
-**Download dataset**
+* **Download dataset**
 
 Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
 
-**Demo**
+* **Demo**
 
 If you want to quickly test the performance, please follow subsequent steps:
     
