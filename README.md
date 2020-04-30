@@ -28,11 +28,17 @@ Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
 
     If you want to quickly test the performance, please follow subsequent steps:
     
-    - Download trained model from https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
-
+    - Download trained model from 
+    ```
+    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/audio.pkl
+    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/common_network.pkl
+    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/image.pkl
+    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/text.pkl
+    wget https://wsnfg.oss-cn-hongkong.aliyuncs.com/video.pkl
+    ```
     - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in test.sh
 
-    - Activate virtual environment(e.g. conda) and then run the script ```bash test.sh```
+    - Activate virtual environment(e.g. conda) and then run the script `bash test.sh`
 
 * **Source Code**
 
