@@ -14,14 +14,20 @@ Installation
 How to use
 ------------
 The code is currently tested only on GPU.
+
 **Download dataset**
+
 Please download from this page. http://59.108.48.34/tiki/FGCrossNet/
 
 **Demo**
-If you want to quickly test the performance, please follow subsequent steps
-Download trained model from Baidu Cloud.
-https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
-The trained models of our framework can be downloaded from 
+
+    - If you want to quickly test the performance, please follow subsequent steps
+    
+    - Download trained model from Baidu Cloud.
+
+	https://pan.baidu.com/s/1CNyfdM0ckWgEdEKeufHLNA#list/path=%2F(key: m0ut)
+	
+	The trained models of our framework can be downloaded from 
 
 Modify CUDA_VISIBLE_DEVICES to proper cuda device id in test.sh
 
