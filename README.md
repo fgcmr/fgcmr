@@ -34,7 +34,7 @@ If you want to quickly test the performance, please follow subsequent steps:
 
     - Activate virtual environment(e.g. conda) and then run the script ```bash test.sh```
 
-**Source Code**
+* **Source Code**
 
     If you want to train the whole network from begining using source code, please follow subsequent steps:
     - Modify CUDA_VISIBLE_DEVICES to proper cuda device id in train_image.sh
